@@ -1,5 +1,5 @@
 {
-  "network": "admob",
+  "network": "unity",
   "enabled": true,
   "interval": 1,
   "networks": {
