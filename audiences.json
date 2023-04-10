@@ -17,11 +17,11 @@
       "rewarded_id": "Rewarded_Android"
     },
     "max": {
-      "app_open_id": "",
-      "banner_id": "",
-      "mrec_id": "",
-      "interstitial_id": "",
-      "rewarded_id": ""
+      "app_open_id": "768ce68c3ff13859",
+      "banner_id": "4abba3a2906d09c7",
+      "mrec_id": "fb00ff928822ac41",
+      "interstitial_id": "b8cf9068c1495dc4",
+      "rewarded_id": "d49ad166ea2a1216"
     }
   }
 }
