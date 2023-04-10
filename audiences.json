@@ -1,5 +1,5 @@
 {
-  "network": "unity",
+  "network": "max",
   "enabled": true,
   "interval": 1,
   "networks": {
