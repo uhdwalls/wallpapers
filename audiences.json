@@ -1,0 +1,27 @@
+{
+  "network": "admob",
+  "enabled": true,
+  "interval": 1,
+  "networks": {
+    "admob": {
+      "app_open_id": "ca-app-pub-3940256099942544/3419835294",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "native_id": "ca-app-pub-3940256099942544/2247696110",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917"
+    },
+    "unity": {
+      "game_id": "1234567",
+      "banner_id": "Banner_Android",
+      "interstitial_id": "Interstitial_Android",
+      "rewarded_id": "Rewarded_Android"
+    },
+    "max": {
+      "app_open_id": "",
+      "banner_id": "",
+      "mrec_id": "",
+      "interstitial_id": "",
+      "rewarded_id": ""
+    }
+  }
+}
