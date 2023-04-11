@@ -36,6 +36,9 @@
     },
     "about": {
       "link": "https://about.google/"
+    },
+    "rate_app": {
+      "link": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
     }
   }
 }
